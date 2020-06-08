@@ -9,6 +9,9 @@ CroatiaTownAPI gives a list and details of all counties, towns and communities i
 Download PHP files on your local PC. Set up local database and connection (config/database.php).
 Run apiDoc for generate API documentation.
 
+## Database
+You can find database data (SQL and CSV) and schema in database_data directory.
+
 ## Built With
 
 * [PHP](https://www.php.net/) - General-purpose scripting language
