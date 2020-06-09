@@ -2,7 +2,7 @@
 
 CroatiaTownAPI gives a list and details of all counties, towns and communities in the Republic of Croatia. The data that CroatiaTownAPI offers is downloaded from [data.gov.hr](http://data.gov.hr/). CroatiaTownAPI is free to use.
 
-[TRY API](https://tehcon.com.hr/api/CroatiaTownAPI/)
+[*** TRY API ***](https://tehcon.com.hr/api/CroatiaTownAPI/)
 
 ## Getting Started
 
